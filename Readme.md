@@ -12,7 +12,4 @@
 # TMX编辑
 
 1. okapi framework- Olifant (win)
-
-
-
-
+2. bitext2tmx https://sourceforge.net/projects/bitext2tmx/?source=navbar
