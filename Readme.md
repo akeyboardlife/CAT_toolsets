@@ -13,3 +13,7 @@
 
 1. okapi framework- Olifant (win)
 2. bitext2tmx https://sourceforge.net/projects/bitext2tmx/?source=navbar
+
+# 质量检查
+
+1. Xbench https://www.xbench.net/
